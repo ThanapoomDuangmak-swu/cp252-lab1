@@ -77,3 +77,8 @@
 6.1 ระบบต้องสามารถพัฒนาและขยายฟังก์ชันในอนาคตได้ เช่น  
 -ระบบชำระเงินออนไลน์  
 -ระบบวิเคราะห์การใช้งานที่จอดรถ  
+
+## Use Case Diagram
+<img width="400" height="1000" alt="Untitled diagram-2026-02-05-093956" src="https://github.com/user-attachments/assets/3db927b4-d3ec-4006-9616-cf551708c5a9" />
+
+
